@@ -1,0 +1,3 @@
+[submodule "decas-reasoner"]
+	path = decas-reasoner
+	url = https://github.com/sepehrna/decas-reasoner.git
