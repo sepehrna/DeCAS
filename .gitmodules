@@ -1,6 +1,3 @@
 [submodule "decas-reasoner"]
 	path = decas-reasoner
 	url = https://github.com/sepehrna/decas-reasoner.git
-[submodule "decas-workflow-engine"]
-	path = decas-workflow-engine
-	url = https://github.com/sepehrna/decas-workflow-engine.git
