@@ -1,3 +1,9 @@
 [submodule "decas-reasoner"]
 	path = decas-reasoner
 	url = https://github.com/sepehrna/decas-reasoner.git
+[submodule "decas-gateway"]
+	path = decas-gateway
+	url = https://github.com/sepehrna/decas-gateway.git
+[submodule "decas-chat"]
+	path = decas-chat
+	url = https://github.com/sepehrna/decas-chat.git
