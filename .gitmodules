@@ -7,3 +7,6 @@
 [submodule "decas-chat"]
 	path = decas-chat
 	url = https://github.com/sepehrna/decas-chat.git
+[submodule "decas-wasm"]
+	path = decas-wasm
+	url = https://github.com/sepehrna/decas-wasm.git
